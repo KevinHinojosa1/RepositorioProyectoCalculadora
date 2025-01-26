@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 # Hinojosa Viteri Kevin Steven 
+=======
+# Kevin Hinojosa 
+
+#definicion de la suma 
+def suma(a,b):
+    return a+b
+>>>>>>> 382135ba4ccfe33484d37de3a236769c0e1c6e47
 
 def suma(a, b):
     """Suma dos números"""
